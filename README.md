@@ -1,16 +1,54 @@
-### Hi there 👋
+# 👋 Hi, I'm Devon Wildman
 
-<!--
-**Silverdon25/Silverdon25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Data Science & Computing (Third Year - Part Time)  
+💼 Founder of SmartDash Analytics Ltd  
+🚀 Building Dashlio – a data dashboard web app  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Project: Dashlio
+
+Dashlio is a data dashboard builder that allows users to:
+
+- Upload CSV or Excel datasets  
+- Preview and explore data  
+- Automatically generate charts and insights  
+
+🔗 Live App: https://dashlio.streamlit.app  
+
+---
+
+## 🖼️ App Preview
+
+![Dashlio Screenshot](dashlio-screenshot.png)
+
+---
+
+## 🛠️ Tech Stack
+
+- Python  
+- Streamlit  
+- Pandas  
+- Plotly  
+
+---
+
+## 🎯 Career Focus
+
+I am focused on:
+
+- Data Analytics  
+- Data Science  
+- Building real-world applications  
+- Entrepreneurship in tech  
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn: (add your link later)
+- GitHub: https://github.com/Silverdon25  
+
+---
+
+⭐ Currently developing Dashlio while completing my degree
