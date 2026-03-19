@@ -46,7 +46,7 @@ I am focused on:
 
 ## 📫 Connect with me
 
-- LinkedIn: (add your link later)
+- LinkedIn: https://www.linkedin.com/in/devon-wildman-9a5ba616/
 - GitHub: https://github.com/Silverdon25  
 
 ---
