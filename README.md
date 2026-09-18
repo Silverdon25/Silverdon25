@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Devon Wildman
 
-🎓 BSc Data Science & Computing (Third Year - Part Time)  
+🎓 BSc Data Science & Computing (Fourth Year - Part Time)  
 💼 Founder of SmartDash Analytics Ltd  
 🚀 Building Dashlio – a data dashboard web app  
 
